@@ -6,7 +6,7 @@ public class BankAccount {
 	private String accType ;
 	private float balance ;
 	
-	
+	///////////line is added
 	
 	public BankAccount(int accNo, String custName, String accType, float balance) {
 		super();
